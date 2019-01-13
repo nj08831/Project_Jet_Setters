@@ -1,0 +1,311 @@
+area_name,occ_code,occ_title,group,tot_emp,a_mean,Year,AREA_TYPE,NAICS,NAICS_TITLE,OWN_CODE
+"Seattle-Bellevue-Everett, WA PMSA",11-0000,Management Occupations,major,75900,76940,1999,,,,
+"Seattle-Bellevue-Everett, WA PMSA",13-0000,Business and Financial Operations Occupations,major,72680,52140,1999,,,,
+"Seattle-Bellevue-Everett, WA PMSA",15-0000,Computer and Mathematical Occupations,major,66300,57190,1999,,,,
+"Seattle-Bellevue-Everett, WA PMSA",17-0000,Architecture and Engineering Occupations,major,54930,59150,1999,,,,
+"Seattle-Bellevue-Everett, WA PMSA",19-0000,"Life, Physical, and Social Science Occupations",major,17330,49190,1999,,,,
+"Seattle-Bellevue-Everett, WA PMSA",21-0000,Community and Social Services Occupations,major,14880,32870,1999,,,,
+"Seattle-Bellevue-Everett, WA PMSA",23-0000,Legal Occupations,major,14890,69240,1999,,,,
+"Seattle-Bellevue-Everett, WA PMSA",25-0000,"Education, Training, and Library Occupations",major,65710,35360,1999,,,,
+"Seattle-Bellevue-Everett, WA PMSA",27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",major,21250,44020,1999,,,,
+"Seattle-Bellevue-Everett, WA PMSA",29-0000,Healthcare Practitioners and Technical Occupations,major,46560,55290,1999,,,,
+"Seattle-Bellevue-Everett, WA PMSA",31-0000,Healthcare Support Occupations,major,24090,23810,1999,,,,
+"Seattle-Bellevue-Everett, WA PMSA",33-0000,Protective Service Occupations,major,23330,34280,1999,,,,
+"Seattle-Bellevue-Everett, WA PMSA",35-0000,Food Preparation and Serving Related Occupations,major,96500,16700,1999,,,,
+"Seattle-Bellevue-Everett, WA PMSA",37-0000,Building and Grounds Cleaning and Maintenance Occupations,major,36700,22110,1999,,,,
+"Seattle-Bellevue-Everett, WA PMSA",39-0000,Personal Care and Service Occupations,major,32560,30740,1999,,,,
+"Seattle-Bellevue-Everett, WA PMSA",41-0000,Sales and Related Occupations,major,154140,31460,1999,,,,
+"Seattle-Bellevue-Everett, WA PMSA",43-0000,Office and Administrative Support Occupations,major,252750,28650,1999,,,,
+"Seattle-Bellevue-Everett, WA PMSA",45-0000,"Farming, Fishing, and Forestry Occupations",major,1810,27950,1999,,,,
+"Seattle-Bellevue-Everett, WA PMSA",47-0000,Construction and Extraction Occupations,major,66320,43450,1999,,,,
+"Seattle-Bellevue-Everett, WA PMSA",49-0000,"Installation, Maintenance, and Repair Occupations",major,58500,37440,1999,,,,
+"Seattle-Bellevue-Everett, WA PMSA",51-0000,Production Occupations,major,96270,29030,1999,,,,
+"Seattle-Bellevue-Everett, WA PMSA",53-0000,Transportation and Material Moving Occupations,major,97810,29130,1999,,,,
+US,11-0000,Management Occupations,major,8063410,64740,1999,,,,
+US,13-0000,Business and Financial Operations Occupations,major,4361980,46100,1999,,,,
+US,15-0000,Computer and Mathematical Occupations,major,2620080,54930,1999,,,,
+US,17-0000,Architecture and Engineering Occupations,major,2506380,51600,1999,,,,
+US,19-0000,"Life, Physical, and Social Science Occupations",major,909530,45660,1999,,,,
+US,21-0000,Community and Social Services Occupations,major,1404540,31640,1999,,,,
+US,23-0000,Legal Occupations,major,858320,66780,1999,,,,
+US,25-0000,"Education, Training, and Library Occupations",major,7344830,36040,1999,,,,
+US,27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",major,1551600,37650,1999,,,,
+US,29-0000,Healthcare Practitioners and Technical Occupations,major,6001950,45250,1999,,,,
+US,31-0000,Healthcare Support Occupations,major,2970780,19780,1999,,,,
+US,33-0000,Protective Service Occupations,major,2958730,29650,1999,,,,
+US,35-0000,Food Preparation and Serving Related Occupations,major,9687970,15600,1999,,,,
+US,37-0000,Building and Grounds Cleaning and Maintenance Occupations,major,4274200,18910,1999,,,,
+US,39-0000,Personal Care and Service Occupations,major,2556920,20300,1999,,,,
+US,41-0000,Sales and Related Occupations,major,12938130,27060,1999,,,,
+US,43-0000,Office and Administrative Support Occupations,major,22562480,25310,1999,,,,
+US,45-0000,"Farming, Fishing, and Forestry Occupations",major,463360,18000,1999,,,,
+US,47-0000,Construction and Extraction Occupations,major,5938860,33650,1999,,,,
+US,49-0000,"Installation, Maintenance, and Repair Occupations",major,5140210,32810,1999,,,,
+US,51-0000,Production Occupations,major,12620920,25400,1999,,,,
+US,53-0000,Transportation and Material Moving Occupations,major,9538820,24630,1999,,,,
+US,00-0000,All Occupations,major,127523760,35560,2002,,,,
+US,11-0000,Management Occupations,major,7092460,78870,2002,,,,
+US,13-0000,Business and Financial Operations Occupations,major,4772120,53350,2002,,,,
+US,15-0000,Computer and Mathematical Science Occupations,major,2772620,61630,2002,,,,
+US,17-0000,Architecture and Engineering Occupations,major,2411260,58020,2002,,,,
+US,19-0000,"Life, Physical, and Social Science Occupations",major,1078630,52380,2002,,,,
+US,21-0000,Community and Social Services Occupations,major,1576980,34630,2002,,,,
+US,23-0000,Legal Occupations,major,934850,77330,2002,,,,
+US,25-0000,"Education, Training, and Library Occupations",major,7772470,40160,2002,,,,
+US,27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",major,1503680,41660,2002,,,,
+US,29-0000,Healthcare Practitioner and Technical Occupations,major,6185020,53990,2002,,,,
+US,31-0000,Healthcare Support Occupations,major,3173400,22410,2002,,,,
+US,33-0000,Protective Service Occupations,major,2993490,33330,2002,,,,
+US,35-0000,Food Preparation and Serving Related Occupations,major,10067080,17180,2002,,,,
+US,37-0000,Building and Grounds Cleaning and Maintenance Occupations,major,4262880,20850,2002,,,,
+US,39-0000,Personal Care and Service Occupations,major,2919280,21370,2002,,,,
+US,41-0000,Sales and Related Occupations,major,13339570,30610,2002,,,,
+US,43-0000,Office and Administrative Support Occupations,major,22754570,27910,2002,,,,
+US,45-0000,"Farming, Fishing, and Forestry Occupations",major,451140,20220,2002,,,,
+US,47-0000,Construction and Extraction Occupations,major,6124600,36340,2002,,,,
+US,49-0000,"Installation, Maintenance, and Repair Occupations",major,5215970,35780,2002,,,,
+US,51-0000,Production Occupations,major,10726670,28190,2002,,,,
+US,53-0000,Transportation and Material Moving Occupations,major,9395000,27220,2002,,,,
+"Seattle-Bellevue-Everett, WA PMSA",00-0000,All Occupations,major,1297430,42960,2002,,,,
+"Seattle-Bellevue-Everett, WA PMSA",11-0000,Management occupations,major,51500,96800,2002,,,,
+"Seattle-Bellevue-Everett, WA PMSA",13-0000,Business and financial operations occupations,major,73100,59650,2002,,,,
+"Seattle-Bellevue-Everett, WA PMSA",15-0000,Computer and mathematical occupations,major,65120,70240,2002,,,,
+"Seattle-Bellevue-Everett, WA PMSA",17-0000,Architecture and engineering occupations,major,45610,65250,2002,,,,
+"Seattle-Bellevue-Everett, WA PMSA",19-0000,"Life, physical, and social science occupations",major,19010,59290,2002,,,,
+"Seattle-Bellevue-Everett, WA PMSA",21-0000,Community and social services occupations,major,16830,35770,2002,,,,
+"Seattle-Bellevue-Everett, WA PMSA",23-0000,Legal occupations,major,12320,72430,2002,,,,
+"Seattle-Bellevue-Everett, WA PMSA",25-0000,"Education, training, and library occupations",major,62840,41190,2002,,,,
+"Seattle-Bellevue-Everett, WA PMSA",27-0000,"Arts, design, entertainment, sports, and media occupations",major,23810,51290,2002,,,,
+"Seattle-Bellevue-Everett, WA PMSA",29-0000,Healthcare practitioners and technical occupations,major,55750,63570,2002,,,,
+"Seattle-Bellevue-Everett, WA PMSA",31-0000,Healthcare support occupations,major,26200,27320,2002,,,,
+"Seattle-Bellevue-Everett, WA PMSA",33-0000,Protective service occupations,major,24830,39010,2002,,,,
+"Seattle-Bellevue-Everett, WA PMSA",35-0000,Food preparation and serving related occupations,major,98890,20680,2002,,,,
+"Seattle-Bellevue-Everett, WA PMSA",37-0000,Building and grounds cleaning and maintenance occupations,major,32300,24130,2002,,,,
+"Seattle-Bellevue-Everett, WA PMSA",39-0000,Personal care and service occupations,major,30800,29270,2002,,,,
+"Seattle-Bellevue-Everett, WA PMSA",41-0000,Sales and related occupations,major,151600,37820,2002,,,,
+"Seattle-Bellevue-Everett, WA PMSA",43-0000,Office and administrative support occupations,major,231210,31730,2002,,,,
+"Seattle-Bellevue-Everett, WA PMSA",45-0000,"Farming, fishing, and forestry occupations",major,1630,25830,2002,,,,
+"Seattle-Bellevue-Everett, WA PMSA",47-0000,Construction and extraction occupations,major,62690,47440,2002,,,,
+"Seattle-Bellevue-Everett, WA PMSA",49-0000,"Installation, maintenance, and repair occupations",major,49170,41350,2002,,,,
+"Seattle-Bellevue-Everett, WA PMSA",51-0000,Production occupations,major,71280,32170,2002,,,,
+"Seattle-Bellevue-Everett, WA PMSA",53-0000,Transportation and material moving occupations,major,90940,32560,2002,,,,
+US,11-0000,Management occupations,major,5960560,88450,2005,,,,
+US,13-0000,Business and financial operations occupations,major,5410410,57930,2005,,,,
+US,15-0000,Computer and mathematical occupations,major,2952740,67100,2005,,,,
+US,17-0000,Architecture and engineering occupations,major,2382480,63910,2005,,,,
+US,19-0000,"Life, physical, and social science occupations",major,1185730,58030,2005,,,,
+US,21-0000,Community and social services occupations,major,1692950,37530,2005,,,,
+US,23-0000,Legal occupations,major,986740,81070,2005,,,,
+US,25-0000,"Education, training, and library occupations",major,8078500,43450,2005,,,,
+US,27-0000,"Arts, design, entertainment, sports, and media occupations",major,1683310,44310,2005,,,,
+US,29-0000,Healthcare practitioners and technical occupations,major,6547350,59170,2005,,,,
+US,31-0000,Healthcare support occupations,major,3363800,23850,2005,,,,
+US,33-0000,Protective service occupations,major,3056660,35750,2005,,,,
+US,35-0000,Food preparation and serving related occupations,major,10797700,17840,2005,,,,
+US,37-0000,Building and grounds cleaning and maintenance occupations,major,4342550,21930,2005,,,,
+US,39-0000,Personal care and service occupations,major,3188850,22180,2005,,,,
+US,41-0000,Sales and related occupations,major,13930320,32800,2005,,,,
+US,43-0000,Office and administrative support occupations,major,22784330,29710,2005,,,,
+US,45-0000,"Farming, fishing, and forestry occupations",major,443070,21010,2005,,,,
+US,47-0000,Construction and extraction occupations,major,6370400,38260,2005,,,,
+US,49-0000,"Installation, maintenance, and repair occupations",major,5305260,38050,2005,,,,
+US,51-0000,Production occupations,major,10249220,29890,2005,,,,
+US,53-0000,Transportation and material moving occupations,major,9594920,28820,2005,,,,
+"Seattle-Bellevue-Everett, WA Metropolitan Division",11-0000,Management occupations,major,46430,110690,2005,,,,
+"Seattle-Bellevue-Everett, WA Metropolitan Division",13-0000,Business and financial operations occupations,major,74690,62360,2005,,,,
+"Seattle-Bellevue-Everett, WA Metropolitan Division",15-0000,Computer and mathematical occupations,major,69510,78400,2005,,,,
+"Seattle-Bellevue-Everett, WA Metropolitan Division",17-0000,Architecture and engineering occupations,major,42760,69790,2005,,,,
+"Seattle-Bellevue-Everett, WA Metropolitan Division",19-0000,"Life, physical, and social science occupations",major,22270,65140,2005,,,,
+"Seattle-Bellevue-Everett, WA Metropolitan Division",21-0000,Community and social services occupations,major,18720,37560,2005,,,,
+"Seattle-Bellevue-Everett, WA Metropolitan Division",23-0000,Legal occupations,major,12280,76370,2005,,,,
+"Seattle-Bellevue-Everett, WA Metropolitan Division",25-0000,"Education, training, and library occupations",major,62940,44700,2005,,,,
+"Seattle-Bellevue-Everett, WA Metropolitan Division",27-0000,"Arts, design, entertainment, sports, and media occupations",major,23980,53930,2005,,,,
+"Seattle-Bellevue-Everett, WA Metropolitan Division",29-0000,Healthcare practitioners and technical occupations,major,57070,68870,2005,,,,
+"Seattle-Bellevue-Everett, WA Metropolitan Division",31-0000,Healthcare support occupations,major,26800,30360,2005,,,,
+"Seattle-Bellevue-Everett, WA Metropolitan Division",33-0000,Protective service occupations,major,23390,43090,2005,,,,
+"Seattle-Bellevue-Everett, WA Metropolitan Division",35-0000,Food preparation and serving related occupations,major,101510,22140,2005,,,,
+"Seattle-Bellevue-Everett, WA Metropolitan Division",37-0000,Building and grounds cleaning and maintenance occupations,major,32290,26250,2005,,,,
+"Seattle-Bellevue-Everett, WA Metropolitan Division",39-0000,Personal care and service occupations,major,35580,27100,2005,,,,
+"Seattle-Bellevue-Everett, WA Metropolitan Division",41-0000,Sales and related occupations,major,154910,40850,2005,,,,
+"Seattle-Bellevue-Everett, WA Metropolitan Division",43-0000,Office and administrative support occupations,major,227450,34440,2005,,,,
+"Seattle-Bellevue-Everett, WA Metropolitan Division",45-0000,"Farming, fishing, and forestry occupations",major,2620,27770,2005,,,,
+"Seattle-Bellevue-Everett, WA Metropolitan Division",47-0000,Construction and extraction occupations,major,64910,47740,2005,,,,
+"Seattle-Bellevue-Everett, WA Metropolitan Division",49-0000,"Installation, maintenance, and repair occupations",major,49030,45800,2005,,,,
+"Seattle-Bellevue-Everett, WA Metropolitan Division",51-0000,Production occupations,major,72610,36760,2005,,,,
+"Seattle-Bellevue-Everett, WA Metropolitan Division",53-0000,Transportation and material moving occupations,major,93100,34880,2005,,,,
+US,11-0000,Management occupations,major,6152650,100310,2008,,,,
+US,13-0000,Business and financial operations occupations,major,6135520,64720,2008,,,,
+US,15-0000,Computer and mathematical science occupations,major,3308260,74500,2008,,,,
+US,17-0000,Architecture and engineering occupations,major,2521630,71430,2008,,,,
+US,19-0000,"Life, physical, and social science occupations",major,1296840,64280,2008,,,,
+US,21-0000,Community and social services occupations,major,1861750,41790,2008,,,,
+US,23-0000,Legal occupations,major,1003270,92270,2008,,,,
+US,25-0000,"Education, training, and library occupations",major,8451250,48460,2008,,,,
+US,27-0000,"Arts, design, entertainment, sports, and media occupations",major,1804940,50670,2008,,,,
+US,29-0000,Healthcare practitioners and technical occupations,major,7076800,67890,2008,,,,
+US,31-0000,Healthcare support occupations,major,3779280,26340,2008,,,,
+US,33-0000,Protective service occupations,major,3128960,40200,2008,,,,
+US,35-0000,Food preparation and serving related occupations,major,11438550,20220,2008,,,,
+US,37-0000,Building and grounds cleaning and maintenance occupations,major,4429870,24370,2008,,,,
+US,39-0000,Personal care and service occupations,major,3437520,24120,2008,,,,
+US,41-0000,Sales and related occupations,major,14336430,36080,2008,,,,
+US,43-0000,Office and administrative support occupations,major,23231750,32220,2008,,,,
+US,45-0000,"Farming, fishing, and forestry occupations",major,438490,23560,2008,,,,
+US,47-0000,Construction and extraction occupations,major,6548760,42350,2008,,,,
+US,49-0000,"Installation, maintenance, and repair occupations",major,5374850,41230,2008,,,,
+US,51-0000,Production occupations,major,9919120,32320,2008,,,,
+US,53-0000,Transportation and material moving occupations,major,9508750,31450,2008,,,,
+"Seattle-Bellevue-Everett, WA Metropolitan Division",11-0000,Management occupations,major,61470,120660,2008,,,,
+"Seattle-Bellevue-Everett, WA Metropolitan Division",13-0000,Business and financial operations occupations,major,86150,69640,2008,,,,
+"Seattle-Bellevue-Everett, WA Metropolitan Division",15-0000,Computer and mathematical science occupations,major,84810,86550,2008,,,,
+"Seattle-Bellevue-Everett, WA Metropolitan Division",17-0000,Architecture and engineering occupations,major,53640,79000,2008,,,,
+"Seattle-Bellevue-Everett, WA Metropolitan Division",19-0000,"Life, physical, and social science occupations",major,25040,72110,2008,,,,
+"Seattle-Bellevue-Everett, WA Metropolitan Division",21-0000,Community and social services occupations,major,18460,44490,2008,,,,
+"Seattle-Bellevue-Everett, WA Metropolitan Division",23-0000,Legal occupations,major,11810,94150,2008,,,,
+"Seattle-Bellevue-Everett, WA Metropolitan Division",25-0000,"Education, training, and library occupations",major,63920,51260,2008,,,,
+"Seattle-Bellevue-Everett, WA Metropolitan Division",27-0000,"Arts, design, entertainment, sports, and media occupations",major,26500,56660,2008,,,,
+"Seattle-Bellevue-Everett, WA Metropolitan Division",29-0000,Healthcare practitioners and technical occupations,major,61760,77090,2008,,,,
+"Seattle-Bellevue-Everett, WA Metropolitan Division",31-0000,Healthcare support occupations,major,30120,32200,2008,,,,
+"Seattle-Bellevue-Everett, WA Metropolitan Division",33-0000,Protective service occupations,major,23380,49740,2008,,,,
+"Seattle-Bellevue-Everett, WA Metropolitan Division",35-0000,Food preparation and serving related occupations,major,115770,24910,2008,,,,
+"Seattle-Bellevue-Everett, WA Metropolitan Division",37-0000,Building and grounds cleaning and maintenance occupations,major,35980,28830,2008,,,,
+"Seattle-Bellevue-Everett, WA Metropolitan Division",39-0000,Personal care and service occupations,major,45640,29280,2008,,,,
+"Seattle-Bellevue-Everett, WA Metropolitan Division",41-0000,Sales and related occupations,major,157120,45050,2008,,,,
+"Seattle-Bellevue-Everett, WA Metropolitan Division",43-0000,Office and administrative support occupations,major,234160,36690,2008,,,,
+"Seattle-Bellevue-Everett, WA Metropolitan Division",45-0000,"Farming, fishing, and forestry occupations",major,2850,30290,2008,,,,
+"Seattle-Bellevue-Everett, WA Metropolitan Division",47-0000,Construction and extraction occupations,major,79170,53150,2008,,,,
+"Seattle-Bellevue-Everett, WA Metropolitan Division",49-0000,"Installation, maintenance, and repair occupations",major,48740,48270,2008,,,,
+"Seattle-Bellevue-Everett, WA Metropolitan Division",51-0000,Production occupations,major,89850,39410,2008,,,,
+"Seattle-Bellevue-Everett, WA Metropolitan Division",53-0000,Transportation and material moving occupations,major,96580,37720,2008,,,,
+US,11-0000,Management Occupations,major,6183820,107410,2011,1,0,Cross-industry,1235
+US,13-0000,Business and Financial Operations Occupations,major,6178070,68740,2011,1,0,Cross-industry,1235
+US,15-0000,Computer and Mathematical Occupations,major,3406720,78730,2011,1,0,Cross-industry,1235
+US,17-0000,Architecture and Engineering Occupations,major,2310830,77120,2011,1,0,Cross-industry,1235
+US,19-0000,"Life, Physical, and Social Science Occupations",major,1082370,67470,2011,1,0,Cross-industry,1235
+US,21-0000,Community and Social Service Occupations,major,1890410,43830,2011,1,0,Cross-industry,1235
+US,23-0000,Legal Occupations,major,1002330,98380,2011,1,0,Cross-industry,1235
+US,25-0000,"Education, Training, and Library Occupations",major,8409060,50870,2011,1,0,Cross-industry,1235
+US,27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",major,1725670,53850,2011,1,0,Cross-industry,1235
+US,29-0000,Healthcare Practitioners and Technical Occupations,major,7514980,72730,2011,1,0,Cross-industry,1235
+US,31-0000,Healthcare Support Occupations,major,3954070,27370,2011,1,0,Cross-industry,1235
+US,33-0000,Protective Service Occupations,major,3202500,42730,2011,1,0,Cross-industry,1235
+US,35-0000,Food Preparation and Serving Related Occupations,major,11218710,21430,2011,1,0,Cross-industry,1235
+US,37-0000,Building and Grounds Cleaning and Maintenance Occupations,major,4191750,25560,2011,1,0,Cross-industry,1235
+US,39-0000,Personal Care and Service Occupations,major,3619250,24620,2011,1,0,Cross-industry,1235
+US,41-0000,Sales and Related Occupations,major,13646450,37520,2011,1,0,Cross-industry,1235
+US,43-0000,Office and Administrative Support Occupations,major,21384330,34120,2011,1,0,Cross-industry,1235
+US,45-0000,"Farming, Fishing, and Forestry Occupations",major,409590,24300,2011,1,0,Cross-industry,1235
+US,47-0000,Construction and Extraction Occupations,major,4956770,44630,2011,1,0,Cross-industry,1235
+US,49-0000,"Installation, Maintenance, and Repair Occupations",major,4988980,43390,2011,1,0,Cross-industry,1235
+US,51-0000,Production Occupations,major,8365980,34220,2011,1,0,Cross-industry,1235
+US,53-0000,Transportation and Material Moving Occupations,major,8635940,33200,2011,1,0,Cross-industry,1235
+"Seattle-Tacoma-Bellevue, WA",11-0000,Management Occupations,major,87010,120530,2011,4,0,Cross-industry,1235
+"Seattle-Tacoma-Bellevue, WA",13-0000,Business and Financial Operations Occupations,major,102880,73840,2011,4,0,Cross-industry,1235
+"Seattle-Tacoma-Bellevue, WA",15-0000,Computer and Mathematical Occupations,major,99580,89960,2011,4,0,Cross-industry,1235
+"Seattle-Tacoma-Bellevue, WA",17-0000,Architecture and Engineering Occupations,major,50930,83950,2011,4,0,Cross-industry,1235
+"Seattle-Tacoma-Bellevue, WA",19-0000,"Life, Physical, and Social Science Occupations",major,20420,69630,2011,4,0,Cross-industry,1235
+"Seattle-Tacoma-Bellevue, WA",21-0000,Community and Social Service Occupations,major,24150,44910,2011,4,0,Cross-industry,1235
+"Seattle-Tacoma-Bellevue, WA",23-0000,Legal Occupations,major,15040,90950,2011,4,0,Cross-industry,1235
+"Seattle-Tacoma-Bellevue, WA",25-0000,"Education, Training, and Library Occupations",major,86310,54220,2011,4,0,Cross-industry,1235
+"Seattle-Tacoma-Bellevue, WA",27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",major,29090,56780,2011,4,0,Cross-industry,1235
+"Seattle-Tacoma-Bellevue, WA",29-0000,Healthcare Practitioners and Technical Occupations,major,81800,82440,2011,4,0,Cross-industry,1235
+"Seattle-Tacoma-Bellevue, WA",31-0000,Healthcare Support Occupations,major,38720,34210,2011,4,0,Cross-industry,1235
+"Seattle-Tacoma-Bellevue, WA",33-0000,Protective Service Occupations,major,30560,54460,2011,4,0,Cross-industry,1235
+"Seattle-Tacoma-Bellevue, WA",35-0000,Food Preparation and Serving Related Occupations,major,134620,25890,2011,4,0,Cross-industry,1235
+"Seattle-Tacoma-Bellevue, WA",37-0000,Building and Grounds Cleaning and Maintenance Occupations,major,42380,30370,2011,4,0,Cross-industry,1235
+"Seattle-Tacoma-Bellevue, WA",39-0000,Personal Care and Service Occupations,major,51110,29760,2011,4,0,Cross-industry,1235
+"Seattle-Tacoma-Bellevue, WA",41-0000,Sales and Related Occupations,major,172720,43170,2011,4,0,Cross-industry,1235
+"Seattle-Tacoma-Bellevue, WA",43-0000,Office and Administrative Support Occupations,major,239690,38960,2011,4,0,Cross-industry,1235
+"Seattle-Tacoma-Bellevue, WA",45-0000,"Farming, Fishing, and Forestry Occupations",major,1570,36320,2011,4,0,Cross-industry,1235
+"Seattle-Tacoma-Bellevue, WA",47-0000,Construction and Extraction Occupations,major,60150,55870,2011,4,0,Cross-industry,1235
+"Seattle-Tacoma-Bellevue, WA",49-0000,"Installation, Maintenance, and Repair Occupations",major,61970,50920,2011,4,0,Cross-industry,1235
+"Seattle-Tacoma-Bellevue, WA",51-0000,Production Occupations,major,89430,42800,2011,4,0,Cross-industry,1235
+"Seattle-Tacoma-Bellevue, WA",53-0000,Transportation and Material Moving Occupations,major,104450,40320,2011,4,0,Cross-industry,1235
+US,11-0000,Management Occupations,major,6741640,112490,2014,1,0,Cross-industry,1235
+US,13-0000,Business and Financial Operations Occupations,major,6828940,72410,2014,1,0,Cross-industry,1235
+US,15-0000,Computer and Mathematical Occupations,major,3834180,83970,2014,1,0,Cross-industry,1235
+US,17-0000,Architecture and Engineering Occupations,major,2418020,81520,2014,1,0,Cross-industry,1235
+US,19-0000,"Life, Physical, and Social Science Occupations",major,1144440,70070,2014,1,0,Cross-industry,1235
+US,21-0000,Community and Social Service Occupations,major,1930750,45310,2014,1,0,Cross-industry,1235
+US,23-0000,Legal Occupations,major,1052900,101110,2014,1,0,Cross-industry,1235
+US,25-0000,"Education, Training, and Library Occupations",major,8435780,52210,2014,1,0,Cross-industry,1235
+US,27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",major,1793700,55790,2014,1,0,Cross-industry,1235
+US,29-0000,Healthcare Practitioners and Technical Occupations,major,7854380,76010,2014,1,0,Cross-industry,1235
+US,31-0000,Healthcare Support Occupations,major,3940500,28820,2014,1,0,Cross-industry,1235
+US,33-0000,Protective Service Occupations,major,3297180,43980,2014,1,0,Cross-industry,1235
+US,35-0000,Food Preparation and Serving Related Occupations,major,12277720,21980,2014,1,0,Cross-industry,1235
+US,37-0000,Building and Grounds Cleaning and Maintenance Occupations,major,4371450,26370,2014,1,0,Cross-industry,1235
+US,39-0000,Personal Care and Service Occupations,major,4154360,24980,2014,1,0,Cross-industry,1235
+US,41-0000,Sales and Related Occupations,major,14248470,38660,2014,1,0,Cross-industry,1235
+US,43-0000,Office and Administrative Support Occupations,major,21638470,35530,2014,1,0,Cross-industry,1235
+US,45-0000,"Farming, Fishing, and Forestry Occupations",major,447130,25160,2014,1,0,Cross-industry,1235
+US,47-0000,Construction and Extraction Occupations,major,5290270,46600,2014,1,0,Cross-industry,1235
+US,49-0000,"Installation, Maintenance, and Repair Occupations",major,5244670,45220,2014,1,0,Cross-industry,1235
+US,51-0000,Production Occupations,major,8934050,35490,2014,1,0,Cross-industry,1235
+US,53-0000,Transportation and Material Moving Occupations,major,9249310,34460,2014,1,0,Cross-industry,1235
+"Seattle-Bellevue-Everett, WA Metropolitan Division",11-0000,Management Occupations,major,79640,125650,2014,5,0,Cross-industry,1235
+"Seattle-Bellevue-Everett, WA Metropolitan Division",13-0000,Business and Financial Operations Occupations,major,112360,79870,2014,5,0,Cross-industry,1235
+"Seattle-Bellevue-Everett, WA Metropolitan Division",15-0000,Computer and Mathematical Occupations,major,112180,105300,2014,5,0,Cross-industry,1235
+"Seattle-Bellevue-Everett, WA Metropolitan Division",17-0000,Architecture and Engineering Occupations,major,50730,91820,2014,5,0,Cross-industry,1235
+"Seattle-Bellevue-Everett, WA Metropolitan Division",19-0000,"Life, Physical, and Social Science Occupations",major,17220,73810,2014,5,0,Cross-industry,1235
+"Seattle-Bellevue-Everett, WA Metropolitan Division",21-0000,Community and Social Service Occupations,major,18960,45950,2014,5,0,Cross-industry,1235
+"Seattle-Bellevue-Everett, WA Metropolitan Division",23-0000,Legal Occupations,major,12510,103930,2014,5,0,Cross-industry,1235
+"Seattle-Bellevue-Everett, WA Metropolitan Division",25-0000,"Education, Training, and Library Occupations",major,75810,55780,2014,5,0,Cross-industry,1235
+"Seattle-Bellevue-Everett, WA Metropolitan Division",27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",major,27550,58060,2014,5,0,Cross-industry,1235
+"Seattle-Bellevue-Everett, WA Metropolitan Division",29-0000,Healthcare Practitioners and Technical Occupations,major,68740,86160,2014,5,0,Cross-industry,1235
+"Seattle-Bellevue-Everett, WA Metropolitan Division",31-0000,Healthcare Support Occupations,major,33210,35750,2014,5,0,Cross-industry,1235
+"Seattle-Bellevue-Everett, WA Metropolitan Division",33-0000,Protective Service Occupations,major,25920,53480,2014,5,0,Cross-industry,1235
+"Seattle-Bellevue-Everett, WA Metropolitan Division",35-0000,Food Preparation and Serving Related Occupations,major,119950,26980,2014,5,0,Cross-industry,1235
+"Seattle-Bellevue-Everett, WA Metropolitan Division",37-0000,Building and Grounds Cleaning and Maintenance Occupations,major,36420,31000,2014,5,0,Cross-industry,1235
+"Seattle-Bellevue-Everett, WA Metropolitan Division",39-0000,Personal Care and Service Occupations,major,45470,29600,2014,5,0,Cross-industry,1235
+"Seattle-Bellevue-Everett, WA Metropolitan Division",41-0000,Sales and Related Occupations,major,153930,45360,2014,5,0,Cross-industry,1235
+"Seattle-Bellevue-Everett, WA Metropolitan Division",43-0000,Office and Administrative Support Occupations,major,206190,40590,2014,5,0,Cross-industry,1235
+"Seattle-Bellevue-Everett, WA Metropolitan Division",45-0000,"Farming, Fishing, and Forestry Occupations",major,1670,35420,2014,5,0,Cross-industry,1235
+"Seattle-Bellevue-Everett, WA Metropolitan Division",47-0000,Construction and Extraction Occupations,major,58700,58040,2014,5,0,Cross-industry,1235
+"Seattle-Bellevue-Everett, WA Metropolitan Division",49-0000,"Installation, Maintenance, and Repair Occupations",major,47400,53980,2014,5,0,Cross-industry,1235
+"Seattle-Bellevue-Everett, WA Metropolitan Division",51-0000,Production Occupations,major,92810,44130,2014,5,0,Cross-industry,1235
+"Seattle-Bellevue-Everett, WA Metropolitan Division",53-0000,Transportation and Material Moving Occupations,major,95280,40650,2014,5,0,Cross-industry,1235
+US,11-0000,Management Occupations,major,7280330,119910,2017,1,0,Cross-industry,1235
+US,13-0000,Business and Financial Operations Occupations,major,7472750,76330,2017,1,0,Cross-industry,1235
+US,15-0000,Computer and Mathematical Occupations,major,4261460,89810,2017,1,0,Cross-industry,1235
+US,17-0000,Architecture and Engineering Occupations,major,2516780,86190,2017,1,0,Cross-industry,1235
+US,19-0000,"Life, Physical, and Social Science Occupations",major,1148300,74370,2017,1,0,Cross-industry,1235
+US,21-0000,Community and Social Service Occupations,major,2096740,48050,2017,1,0,Cross-industry,1235
+US,23-0000,Legal Occupations,major,1095770,107370,2017,1,0,Cross-industry,1235
+US,25-0000,"Education, Training, and Library Occupations",major,8727710,55470,2017,1,0,Cross-industry,1235
+US,27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",major,1925140,58950,2017,1,0,Cross-industry,1235
+US,29-0000,Healthcare Practitioners and Technical Occupations,major,8506740,80760,2017,1,0,Cross-industry,1235
+US,31-0000,Healthcare Support Occupations,major,4113410,31310,2017,1,0,Cross-industry,1235
+US,33-0000,Protective Service Occupations,major,3408680,47190,2017,1,0,Cross-industry,1235
+US,35-0000,Food Preparation and Serving Related Occupations,major,13193090,24710,2017,1,0,Cross-industry,1235
+US,37-0000,Building and Grounds Cleaning and Maintenance Occupations,major,4424440,28930,2017,1,0,Cross-industry,1235
+US,39-0000,Personal Care and Service Occupations,major,5159100,27270,2017,1,0,Cross-industry,1235
+US,41-0000,Sales and Related Occupations,major,14522580,40680,2017,1,0,Cross-industry,1235
+US,43-0000,Office and Administrative Support Occupations,major,21965480,37950,2017,1,0,Cross-industry,1235
+US,45-0000,"Farming, Fishing, and Forestry Occupations",major,470920,28840,2017,1,0,Cross-industry,1235
+US,47-0000,Construction and Extraction Occupations,major,5728460,49930,2017,1,0,Cross-industry,1235
+US,49-0000,"Installation, Maintenance, and Repair Occupations",major,5528390,47870,2017,1,0,Cross-industry,1235
+US,51-0000,Production Occupations,major,9024560,38070,2017,1,0,Cross-industry,1235
+US,53-0000,Transportation and Material Moving Occupations,major,9978390,37070,2017,1,0,Cross-industry,1235
+"Seattle-Bellevue-Everett, WA Metropolitan Division",11-0000,Management Occupations,major,96540,137960,2017,5,0,Cross-industry,1235
+"Seattle-Bellevue-Everett, WA Metropolitan Division",13-0000,Business and Financial Operations Occupations,major,135080,84480,2017,5,0,Cross-industry,1235
+"Seattle-Bellevue-Everett, WA Metropolitan Division",15-0000,Computer and Mathematical Occupations,major,128040,113610,2017,5,0,Cross-industry,1235
+"Seattle-Bellevue-Everett, WA Metropolitan Division",17-0000,Architecture and Engineering Occupations,major,47800,100410,2017,5,0,Cross-industry,1235
+"Seattle-Bellevue-Everett, WA Metropolitan Division",19-0000,"Life, Physical, and Social Science Occupations",major,18400,77440,2017,5,0,Cross-industry,1235
+"Seattle-Bellevue-Everett, WA Metropolitan Division",21-0000,Community and Social Service Occupations,major,19280,51450,2017,5,0,Cross-industry,1235
+"Seattle-Bellevue-Everett, WA Metropolitan Division",23-0000,Legal Occupations,major,12290,112010,2017,5,0,Cross-industry,1235
+"Seattle-Bellevue-Everett, WA Metropolitan Division",25-0000,"Education, Training, and Library Occupations",major,77540,61440,2017,5,0,Cross-industry,1235
+"Seattle-Bellevue-Everett, WA Metropolitan Division",27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",major,30610,62220,2017,5,0,Cross-industry,1235
+"Seattle-Bellevue-Everett, WA Metropolitan Division",29-0000,Healthcare Practitioners and Technical Occupations,major,75050,94420,2017,5,0,Cross-industry,1235
+"Seattle-Bellevue-Everett, WA Metropolitan Division",31-0000,Healthcare Support Occupations,major,35260,39450,2017,5,0,Cross-industry,1235
+"Seattle-Bellevue-Everett, WA Metropolitan Division",33-0000,Protective Service Occupations,major,29730,59150,2017,5,0,Cross-industry,1235
+"Seattle-Bellevue-Everett, WA Metropolitan Division",35-0000,Food Preparation and Serving Related Occupations,major,139190,32310,2017,5,0,Cross-industry,1235
+"Seattle-Bellevue-Everett, WA Metropolitan Division",37-0000,Building and Grounds Cleaning and Maintenance Occupations,major,37960,34500,2017,5,0,Cross-industry,1235
+"Seattle-Bellevue-Everett, WA Metropolitan Division",39-0000,Personal Care and Service Occupations,major,56770,34270,2017,5,0,Cross-industry,1235
+"Seattle-Bellevue-Everett, WA Metropolitan Division",41-0000,Sales and Related Occupations,major,148680,50560,2017,5,0,Cross-industry,1235
+"Seattle-Bellevue-Everett, WA Metropolitan Division",43-0000,Office and Administrative Support Occupations,major,219610,44470,2017,5,0,Cross-industry,1235
+"Seattle-Bellevue-Everett, WA Metropolitan Division",45-0000,"Farming, Fishing, and Forestry Occupations",major,2080,34300,2017,5,0,Cross-industry,1235
+"Seattle-Bellevue-Everett, WA Metropolitan Division",47-0000,Construction and Extraction Occupations,major,72090,62230,2017,5,0,Cross-industry,1235
+"Seattle-Bellevue-Everett, WA Metropolitan Division",49-0000,"Installation, Maintenance, and Repair Occupations",major,56680,56830,2017,5,0,Cross-industry,1235
+"Seattle-Bellevue-Everett, WA Metropolitan Division",51-0000,Production Occupations,major,91960,49300,2017,5,0,Cross-industry,1235
+"Seattle-Bellevue-Everett, WA Metropolitan Division",53-0000,Transportation and Material Moving Occupations,major,116710,47170,2017,5,0,Cross-industry,1235
