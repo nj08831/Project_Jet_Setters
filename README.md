@@ -1,7 +1,8 @@
 # Project_Jet_Setters
 Team_Project:  final_presentation_jet_setters_01122019.ppt
 
-All DATA_FILES are in DATA\<name>
+All DATA_FILES are in DATA/<name>
+Any Misc Graphs are in GRAPHS/
 
 PROJECT OWNER of IPBYN FILES
 
