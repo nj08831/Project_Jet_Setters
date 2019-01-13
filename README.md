@@ -23,6 +23,8 @@ Wage_Disp_Data_Manipulation.ipbyn
 Wage_Disp_Data_Visualization.ipbyn
 
 Juan: (occupation, education)
+Degree_Types_Data_Final.ipbyn
+Education_Levels_US_WA_Seattle_2010-2017.ipbyn
 
 
 
